@@ -1,0 +1,140 @@
+2020-05-03T16:54:10.580+0300 INFO 1- Hepisburada's web test scenario begins.
+2020-05-03T16:54:10.585+0300 INFO 2- Browser Name: CHROME is getting ready to run.
+2020-05-03T16:54:20.055+0300 INFO 3- Browser Name: CHROME: Hepsiburada tests started.
+2020-05-03T16:54:20.057+0300 INFO 4- WebDriver created for Hepsiburada Tests
+
+2020-05-03T16:54:20.057+0300 INFO 5- Starting test scenarios in Hepsiburada Tests
+2020-05-03T16:54:20.057+0300 INFO  	5.1- HomePage test scenario in Hepsiburada Tests
+2020-05-03T16:54:20.057+0300 INFO  		HomePage test created for Hepsiburada Tests
+2020-05-03T16:54:20.074+0300 INFO  			 1. Step: Visiting 'Homepage'
+2020-05-03T16:54:22.820+0300 INFO  			 2. Step: Checking 'Homepage' visit
+2020-05-03T16:54:22.922+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:23.699+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:24.219+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:24.739+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:25.269+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:25.795+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:26.316+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:26.836+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:27.356+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:27.880+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:28.403+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:28.933+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:29.453+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:29.974+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:30.494+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:31.013+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:31.531+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:32.050+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:32.576+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T16:54:32.614+0300 INFO  			 3. Step: Clicking the 'Login' button
+2020-05-03T16:54:35.513+0300 INFO  		HomePage test completed for Hepsiburada Tests
+
+2020-05-03T16:54:35.514+0300 INFO  	5.2- Login Operations test scenario in Hepsiburada Tests
+2020-05-03T16:54:35.514+0300 INFO  		Login Operations test created for Hepsiburada Tests
+2020-05-03T16:54:35.515+0300 INFO  			 1. Step: Checking 'Login Page' visit
+2020-05-03T16:54:35.524+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T16:54:35.541+0300 INFO  			 2. Step: Clicking the 'Login' radio button
+2020-05-03T16:54:35.624+0300 INFO  			 3. Step: Email address is writing to email area
+2020-05-03T16:54:35.898+0300 INFO  			 4. Step: Password is writing to password area
+2020-05-03T16:54:36.107+0300 INFO  			 5. Step: Clicking the 'Login' button
+2020-05-03T16:54:37.224+0300 INFO  		Login Operations test completed for Hepsiburada Tests
+
+2020-05-03T16:54:37.225+0300 INFO  	5.3- Product Review test scenario in Hepsiburada Tests
+2020-05-03T16:54:37.225+0300 INFO  		Product Review test created for Hepsiburada Tests
+2020-05-03T16:54:37.225+0300 INFO  			 1. Step: Checking 'Homepage' visit
+2020-05-03T16:54:38.417+0300 INFO  				 ---> Current Window State       : loading
+2020-05-03T16:54:40.144+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T16:54:40.987+0300 INFO  			 2. Step: Checking Login
+2020-05-03T16:54:42.049+0300 INFO  			 3. Step: Checking 'Homepage' visit
+2020-05-03T16:54:42.058+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T16:54:42.073+0300 INFO  			 4. Step: The given item is selecting
+2020-05-03T16:54:43.776+0300 INFO  			 5. Step: Checking 'Product Page' visit
+2020-05-03T16:54:44.116+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:45.257+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T16:54:45.388+0300 INFO  			 6. Step: Getting product information
+2020-05-03T16:54:45.443+0300 INFO  			 7. Step: Clicking the 'HomePage' button
+2020-05-03T16:54:46.480+0300 INFO  			 8. Step: Checking 'Homepage' visit
+2020-05-03T16:54:47.045+0300 INFO  				 ---> Current Window State       : loading
+2020-05-03T16:54:47.960+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:49.069+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T16:54:49.095+0300 INFO  			 9. Step: The given item is selecting
+2020-05-03T16:54:50.508+0300 INFO  			 10. Step: Checking 'Product Page' visit
+2020-05-03T16:54:50.639+0300 INFO  				 ---> Current Window State       : loading
+2020-05-03T16:54:51.335+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:51.858+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:52.382+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:52.901+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:53.419+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:53.939+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:54.460+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:54.976+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:55.494+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:54:56.183+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T16:54:56.291+0300 INFO  			 11. Step: Getting product information
+2020-05-03T16:54:56.333+0300 INFO  			 12. Step: Clicking the 'HomePage' button
+2020-05-03T16:54:57.322+0300 INFO  			 13. Step: Checking 'Homepage' visit
+2020-05-03T16:54:58.057+0300 INFO  				 ---> Current Window State       : loading
+2020-05-03T16:54:59.570+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T16:54:59.697+0300 INFO  			 14. Step: The given item is selecting
+2020-05-03T16:55:02.004+0300 INFO  			 15. Step: Checking 'Product Page' visit
+2020-05-03T16:55:02.223+0300 INFO  				 ---> Current Window State       : loading
+2020-05-03T16:55:03.005+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:03.524+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:04.042+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:04.561+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:05.080+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:05.597+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:06.115+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:06.632+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:07.150+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:07.670+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:08.190+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:08.706+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:09.225+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:09.743+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:10.261+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:10.780+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:11.297+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:11.815+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:12.334+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:12.852+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:13.370+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:13.891+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:14.410+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:14.927+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:15.444+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:15.963+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:16.481+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:16.999+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:17.517+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:18.036+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:18.555+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:19.073+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:19.596+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:20.115+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:20.633+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:21.151+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:21.670+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:22.188+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:22.706+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:23.226+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:23.745+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:24.264+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:24.780+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:25.300+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:25.820+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:26.338+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:26.856+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:27.375+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:27.901+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:28.418+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:28.935+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:29.513+0300 INFO  				 ---> Current Window State       : loading
+2020-05-03T16:55:30.330+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:31.099+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:31.617+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:32.134+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:55:33.758+0300 INFO 6- Test Complete Time:73703, Browser Name: CHROME is closed
+
+

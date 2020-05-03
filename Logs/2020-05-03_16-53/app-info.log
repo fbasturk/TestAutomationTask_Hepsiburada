@@ -1,0 +1,35 @@
+2020-05-03T16:53:04.247+0300 INFO 1- Hepisburada's web test scenario begins.
+2020-05-03T16:53:04.251+0300 INFO 2- Browser Name: FIREFOX is getting ready to run.
+2020-05-03T16:53:11.810+0300 INFO 3- Browser Name: FIREFOX: Hepsiburada tests started.
+2020-05-03T16:53:11.811+0300 INFO 4- WebDriver created for Hepsiburada Tests
+
+2020-05-03T16:53:11.812+0300 INFO 5- Starting test scenarios in Hepsiburada Tests
+2020-05-03T16:53:11.812+0300 INFO  	5.1- HomePage test scenario in Hepsiburada Tests
+2020-05-03T16:53:11.812+0300 INFO  		HomePage test created for Hepsiburada Tests
+2020-05-03T16:53:11.832+0300 INFO  			 1. Step: Visiting 'Homepage'
+2020-05-03T16:53:15.660+0300 INFO  			 2. Step: Checking 'Homepage' visit
+2020-05-03T16:53:15.748+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T16:53:15.766+0300 INFO  			 3. Step: Clicking the 'Login' button
+2020-05-03T16:53:18.328+0300 INFO  		HomePage test completed for Hepsiburada Tests
+
+2020-05-03T16:53:18.328+0300 INFO  	5.2- Login Operations test scenario in Hepsiburada Tests
+2020-05-03T16:53:18.329+0300 INFO  		Login Operations test created for Hepsiburada Tests
+2020-05-03T16:53:18.331+0300 INFO  			 1. Step: Checking 'Login Page' visit
+2020-05-03T16:53:18.348+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T16:53:18.366+0300 INFO  			 2. Step: Clicking the 'Login' radio button
+2020-05-03T16:53:18.645+0300 INFO  			 3. Step: Email address is writing to email area
+2020-05-03T16:53:18.836+0300 INFO  			 4. Step: Password is writing to password area
+2020-05-03T16:53:18.968+0300 INFO  			 5. Step: Clicking the 'Login' button
+2020-05-03T16:53:20.255+0300 INFO  		Login Operations test completed for Hepsiburada Tests
+
+2020-05-03T16:53:20.255+0300 INFO  	5.3- Product Review test scenario in Hepsiburada Tests
+2020-05-03T16:53:20.255+0300 INFO  		Product Review test created for Hepsiburada Tests
+2020-05-03T16:53:20.256+0300 INFO  			 1. Step: Checking 'Homepage' visit
+2020-05-03T16:53:20.289+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:53:20.884+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:53:21.397+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T16:53:22.015+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T16:53:22.051+0300 INFO  			 2. Step: Checking Login
+2020-05-03T16:53:30.795+0300 INFO 6- Test Complete Time:18985, Browser Name: FIREFOX is closed
+
+

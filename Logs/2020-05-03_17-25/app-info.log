@@ -1,0 +1,76 @@
+2020-05-03T17:25:46.241+0300 INFO 1- Hepisburada's web test scenario begins.
+2020-05-03T17:25:46.245+0300 INFO 2- Browser Name: CHROME is getting ready to run.
+2020-05-03T17:25:55.619+0300 INFO 3- Browser Name: CHROME: Hepsiburada tests started.
+2020-05-03T17:25:55.623+0300 INFO 4- WebDriver created for Hepsiburada Tests
+
+2020-05-03T17:25:55.624+0300 INFO 5- Starting test scenarios in Hepsiburada Tests
+2020-05-03T17:25:55.624+0300 INFO  	5.1- HomePage test scenario in Hepsiburada Tests
+2020-05-03T17:25:55.625+0300 INFO  		HomePage test created for Hepsiburada Tests
+2020-05-03T17:25:55.650+0300 INFO  			 1. Step: Visiting 'Homepage'
+2020-05-03T17:25:58.717+0300 INFO  			 2. Step: Checking 'Homepage' visit
+2020-05-03T17:25:58.745+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T17:25:59.580+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T17:26:00.131+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T17:26:00.193+0300 INFO  			 3. Step: Clicking the 'Login' button
+2020-05-03T17:26:02.901+0300 INFO  		HomePage test completed for Hepsiburada Tests
+
+2020-05-03T17:26:02.901+0300 INFO  	5.2- Login Operations test scenario in Hepsiburada Tests
+2020-05-03T17:26:02.901+0300 INFO  		Login Operations test created for Hepsiburada Tests
+2020-05-03T17:26:02.903+0300 INFO  			 1. Step: Checking 'Login Page' visit
+2020-05-03T17:26:02.910+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T17:26:02.925+0300 INFO  			 2. Step: Clicking the 'Login' radio button
+2020-05-03T17:26:03.043+0300 INFO  			 3. Step: Email address is writing to email area
+2020-05-03T17:26:03.407+0300 INFO  			 4. Step: Password is writing to password area
+2020-05-03T17:26:03.622+0300 INFO  			 5. Step: Clicking the 'Login' button
+2020-05-03T17:26:04.757+0300 INFO  		Login Operations test completed for Hepsiburada Tests
+
+2020-05-03T17:26:04.757+0300 INFO  	5.3- Product Review test scenario in Hepsiburada Tests
+2020-05-03T17:26:04.757+0300 INFO  		Product Review test created for Hepsiburada Tests
+2020-05-03T17:26:04.757+0300 INFO  			 1. Step: Checking 'Homepage' visit
+2020-05-03T17:26:06.235+0300 INFO  				 ---> Current Window State       : loading
+2020-05-03T17:26:07.670+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T17:26:08.469+0300 INFO  			 2. Step: Checking Login
+2020-05-03T17:26:09.557+0300 INFO  			 3. Step: Checking 'Homepage' visit
+2020-05-03T17:26:09.566+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T17:26:09.591+0300 INFO  			 4. Step: The given item is selecting
+2020-05-03T17:26:11.455+0300 INFO  			 5. Step: Checking 'Product Page' visit
+2020-05-03T17:26:11.609+0300 INFO  				 ---> Current Window State       : loading
+2020-05-03T17:26:13.123+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T17:26:13.322+0300 INFO  			 6. Step: Getting product information
+2020-05-03T17:26:13.366+0300 INFO  			 7. Step: Clicking the 'HomePage' button
+2020-05-03T17:26:14.398+0300 INFO  			 8. Step: Checking 'Homepage' visit
+2020-05-03T17:26:14.696+0300 INFO  				 ---> Current Window State       : loading
+2020-05-03T17:26:15.799+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T17:26:17.086+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T17:26:17.104+0300 INFO  			 9. Step: The given item is selecting
+2020-05-03T17:26:18.843+0300 INFO  			 10. Step: Checking 'Product Page' visit
+2020-05-03T17:26:19.014+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T17:26:20.068+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T17:26:20.208+0300 INFO  			 11. Step: Getting product information
+2020-05-03T17:26:20.253+0300 INFO  			 12. Step: Clicking the 'HomePage' button
+2020-05-03T17:26:21.527+0300 INFO  			 13. Step: Checking 'Homepage' visit
+2020-05-03T17:26:22.283+0300 INFO  				 ---> Current Window State       : loading
+2020-05-03T17:26:23.665+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T17:26:23.751+0300 INFO  			 14. Step: The given item is selecting
+2020-05-03T17:26:25.121+0300 INFO  			 15. Step: Checking 'Product Page' visit
+2020-05-03T17:26:25.400+0300 INFO  				 ---> Current Window State       : interactive
+2020-05-03T17:26:26.488+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T17:26:26.999+0300 INFO  			 16. Step: Getting product information
+2020-05-03T17:26:27.043+0300 INFO  			 17. Step: Clicking the 'HomePage' button
+2020-05-03T17:26:27.932+0300 INFO  		Product Review test completed for Hepsiburada Tests
+
+2020-05-03T17:26:27.933+0300 INFO  	5.4- Check Product In My Cart test scenario in Hepsiburada Tests
+2020-05-03T17:26:27.933+0300 INFO  		Check Product In My Cart test created for Hepsiburada Tests
+2020-05-03T17:26:27.933+0300 INFO  			 1. Step: Checking 'Homepage' visit
+2020-05-03T17:26:28.322+0300 INFO  				 ---> Current Window State       : loading
+2020-05-03T17:26:29.715+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T17:26:30.143+0300 INFO  			 2. Step: Clicking the 'MyCart' button
+2020-05-03T17:26:30.756+0300 INFO  			 3. Step: Checking 'My Cart Page' visit
+2020-05-03T17:26:30.765+0300 INFO  				 ---> Current Window State       : complete
+2020-05-03T17:26:30.861+0300 INFO  			 4. Step: Scrolling down to product area
+2020-05-03T17:26:31.633+0300 INFO  			 5. Step: Checking is there a result for the product review
+2020-05-03T17:26:32.126+0300 INFO  		Check Product In My Cart test completed for Hepsiburada Tests
+
+2020-05-03T17:26:33.250+0300 INFO 6- Test Complete Time:37631, Browser Name: CHROME is closed
+
+
